@@ -1,0 +1,10 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\bin\Debug\Practica 5 y 6.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\bin\Debug\Practica 5 y 6.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\bin\Debug\Practica 5 y 6.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica 5 y 6.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica_5_y_6.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica_5_y_6.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica 5 y 6.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica 5 y 6.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica 5 y 6.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\Practica 5 y 6\Practica 5 y 6\obj\Debug\Practica 5 y 6.pdb
